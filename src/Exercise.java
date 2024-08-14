@@ -1,6 +1,6 @@
 public class Exercise {
 
-    public void multiplication() {
+    public void printMultiplicationTable() {
         System.out.println("\t\t\tMultiplication Table from 1 to 10");
         System.out.println();
 
